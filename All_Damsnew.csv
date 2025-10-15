@@ -1,0 +1,72 @@
+﻿Sr. No.,District,Name of Dam,Type of Dam,Operational / Non-Operational,"Height
+(ft)","Completion Cost
+(million)","Gross Storage Capacity
+(Aft)","Live storage
+(Aft)","C.C.A.
+(Acres)","Capacity of Channel
+(Cfs)","Length of Canal
+(ft)","DSL
+(ft)","NPL
+(ft)","HFL
+(ft)",River / Nullah,Year of Completion,"Catchment Area
+(Sq. Km)",Latitude,Longitude
+1,Islamabad,Rawal Dam,Stone Masonary,Operational,133.5,21.12,47500,28265,500,112,3000,1708,1752,1761,Korang River,1962,275.18,33.693833,73.122914
+2,Islamabad,Dhok Sanday Mar ,Concrete,Operational,65,34.15,862,518,650,3.5,15893,1707.5,1726.5,1730,Nikki kas,1990,3.55,33.659503,72.860919
+3,Rawalpindi,Misriot ,Concrete,Operational,39.4,0.33,504,268,100,2,8300,1623.45,1631.1,1636.1,Domel kas,1963,8.2,33.516653,72.990761
+4,Rawalpindi,Nirali ,Concrete,Operational,70,0.973,754,450,315,3,12672,1700.5,1715,1722,Nirali Kas Tributary of Kanshi River,1970,9.19,33.325278,73.397222
+5,Rawalpindi,Dungi ,Concrete,Operational,71.4,1.47,1760,959,246,3,16282,1490,1502.5,1507.4,Huchiara Kas Tributary of Kanshi River,1971,20,33.291667,73.297778
+6,Rawalpindi,Khasala ,Concrete,Operational,60,16.57,2415,1498,1250,6,12038,1316.5,1332,1339,Khasala Kas/Soan River,1985,25.4,33.446144,72.970844
+7,Rawalpindi,Jawa ,Earthfill,Operational,82.43,29.71,1575,900,850,5,23350,1364.5,1384.5,1389,Jawa kas /soan river,1994,9.4,33.427908,72.935278
+8,Rawalpindi,Phalina ,Earthfill,Operational,74,267.975,3900,2930,2200,21.6,37500,1630.6,1651.9,1656.6,Phalina Kas Tributary of Kanshi River,2008,24.75,33.402222,73.327222
+9,Rawalpindi,Jamal ,Concrete Gravity,Non-Operational,87,77.171,1860,1286,1488,9,11081,,,,Ranjali Kas,2006,12.54,33.286944,73.120833
+10,Rawalpindi,Ugahan ,Earthfill,Operational,85,509.602,8100,3960,3500,35,39500,1572.25,1594,1601,Krumb Nullah Tributary of Kanshi River,2012,71.48,33.290278,73.300278
+11,Rawalpindi,Chahan,Earthfill,Operational,153,1567.529,27386,15706,12000,45,42350,1362,1398,1414.7,Sill Kass/Sill river,2023,242,33.459444,72.881714
+12,Rawalpindi,Mahota,Earthen,Operational,94.5,3890.625,19065,11343,6000,40,20650,1235,1257,1269.3,Karahi nullah,2025,181,33.170833,72.834253
+13,Rawalpindi,Mohra Shera,Earthen,Operational,97,1128.542,11800,5820,4500,30,16000,1536,1548,1556,"Badala Kas, a tributary of Wadala Kas that outfalls in Soan",2025,127,33.338094,73.136669
+14,Chakwal,Khokhar Zer,Earthfill,Operational,77,22.832,3312,3601,1200,14,26400,1895,1919,1924,Bitti Nalla (Tributary of Bunha River),1979,20.72,32.806667,72.859444
+15,Chakwal,Walana ,Concrete,Operational,70,14.114,2193,1278,830,6,20300,1690,1705,1712.7,Narala Nullah,1983,25.9,32.875278,72.625556
+16,Chakwal,Surlah ,Earthfill,Operational,61,19.822,2119,2119,1480,14,10000,1900,1919,1924,Surlah Nalla (Tributary of Bunha River),1985,15.54,32.788889,72.841667
+17,Chakwal,Nikka ,Concrete,Operational,91.8,22.656,1243,830,777,7.5,15600,2310,2344,2351.19,Nikka Nullah (Tributary of Dharab River),1990,28.8,32.795278,72.688056
+18,Chakwal,Dhok Qutab Din,Earthfill,Operational,81,23.331,1976,1030,706,6,17688,1720.45,1742,1744.3,Kuthan Kass (Tributary of Bunha River),1991,15.54,32.800556,72.958889
+19,Chakwal,Kot Raja ,Earthfill,Operational,79.14,31.4,2844,2050,835,14,24288,1696.17,1713,1721.5,Kuthan Kass (Tributary of Bunha River),1991,23.98,32.8075,72.996667
+20,Chakwal,Minwal ,Earthfill,Non-Operational,82.5,98.07,2000,1003,750,6,12000,1550,1563,1568,Wadnawali Kass (Tributary of Soan River),2008,12.95,33.039167,72.8675
+21,Chakwal,Khai ,Earthfill,Non-Operational,128,139.949,5921,2106,1803,16,34600,2025,2045,2050,Sauj Kass (Tributary of Soan River),2007,15.1,32.8125,72.764444
+22,Chakwal,Ghazial ,Earthfill,Operational,73.5,128.8,2000,1100,650,7,18800,1571.5,1583,1587,Piniala kass (Tributary of Bunha River),2007,13.49,32.978056,73.156944
+23,Chakwal,Dhok Tahlian,Earthfill,Operational,83.45,58.37,1808,1110,852,4.3,30007,1925,1941.42,1947.45,Kuthan Kass (Tributary of Bunha River),2002,21,32.790833,72.9775
+24,Chakwal,Mundee Dam,Composite,Operational,47,77.327,450,340,400,3.5,18000,1529,1542,1545,Ghazha Kass (Tributary of Bunha River),2012,3.32,33.04,73.122778
+25,Chakwal,Dhok Jhang  ,Earthfill,Non-Operational,100,499.348,2650,1250,1070,6,37500,1902,1918,1932,Tributary of Bunha River,2012,14.01,32.796389,72.919444
+26,Chakwal,Arrar Mughlan,Earthfill,Operational,75,829.375,5200,2300,1800,8,27250,1475,1485,1492,Daggar Nullah a (Tributary of Bunha River),2019,142.01,32.941944,73.062222
+27,Talagang,Gurabh ,Concrete,Operational,76.4,1.338,972,679,1346,3.25,15048,1730,1748,1756,Gurabh Nullah (Tributary of Soan River),1970,16.80902,32.856111,72.361667
+28,Talagang,Dhurnal ,Concrete,Operational,68,1.595,1570,1062,700,4,20064,1464,1477,1485,Nikki Nullah,1967,21.0048,32.803889,72.098333
+29,Talagang,Dhok Hum ,Earthfill,Operational,87,250.602,8000,2800,1150,15,13700,1706,1717.5,1724,Ankar Nullah (Tributary of Soan River),2012,103.6,33.832778,72.279722
+30,Talagang,Bhugtal ,Concrete,Operational,75,24.942,1140,675,680,6.5,17002,1780,1795.42,1799.25,Sirri Nullah,1990,22.6624,32.815,72.234167
+31,Talagang,Mial ,Earthfill,Operational,70.31,66.64,3200,1306,935,6,16000,1427.15,1438,1443,Latii Nullah (Tributary of Soan River),2004,40.14482,32.866667,72.115
+32,Talagang,Pira Fatehal ,Earthfill,Operational,89.94,38.08,7400,2900,750,16,36379,1860.2,1873.34,1878,Gandiali Nullah (Tributary of Soan River),1995,69.36,32.866111,72.325833
+33,Attock,Sipiala ,Concrete,Operational,37.58,0.32,565,267,565,2,15840,1634,1644,1646.5,Sipiala Kas,1964,10.29,33.540722,72.781781
+34,Attock,Ratti Kassi ,Concrete,Operational,50.15,0.68,2116,648,650,4.5,23232,1392.5,1404.75,1468.27,Dutal Kas,1970,22.02,33.554378,72.387808
+35,Attock,Kanjoor ,Concrete,Operational,63.25,1.66,2627,2400,2000,11,25344,1322.75,1540.75,1524.92,Kanjoor kas,1975,32.22,33.409503,72.537492
+36,Attock,Channi Bor ,Concrete,Operational,60,6.77,1958,1173,1500,6,19536,1359.65,1373,1378,Kuthan Kas,1979,24.61,33.559058,72.345497
+37,Attock,Qibla Bandi ,Concrete,Operational,72,1.49,3650,2200,850,6,13150,1223,1240,1245,Qibla Bandi Kas,1971,22.01,33.887928,72.580842
+38,Attock,Shahpur ,Concrete,Operational,85,36.5,14320,4128,1250,15,39442,1452.5,1458.3,1468.35,Nandana Kas,1986,203.94,33.619272,72.674889
+39,Attock,Mirwal ,Concrete,Operational,60,42.229,3765,2726,1050,11,16949,1295,1313,1317,Mirwal Kas,1990,37.55,33.471997,72.326686
+40,Attock,Jabbi ,Concrete,Operational,71.5,44.63,3079,1971,1495,15.75,24182,1249.2,1265.4,1272.6,Jabbi Kas,1991,35.3,33.475906,72.221603
+41,Attock,Shakar Dara ,Concrete,Operational,115,186.08,5711,2081,4200,46.22,122866,1151.65,1187.64,1196.87,Shakardara Kas,1994,155.58,33.694181,72.322767
+42,Attock,Thatti Syedan,Concrete,Operational,42.65,39.119,600,350,300,3.75,10000,1286.07,1292.63,1290.35,Thatti Sayedan Kas,2005,11.66,33.429947,72.210986
+43,Attock,Sawal ,Earthfill,Operational,95,103.44,2400,1720,930,9.5,37000,1358,1381,1385.75,Sawal Dam,2005,16.75,33.25285,72.581208
+44,Attock,Talikna ,Earthfill,Operational,57.87,99.612,2050,1350,1000,7,15000,1374.65,1389.41,1393.38,Talikana wala Nullah,2005,12,33.57185,72.266622
+45,Attock,Jabba ,Earthfill,Operational,83.6,43.539,860,515,400,3.75,7800,1189,1205.4,1209.5,Jabba Kas,2005,9,33.329908,71.903111
+46,Attock,Jalwal ,Earthfill,Non-Operational,60,100.13,5000,2820,2364,23,40000,951,964.5,967,Basal Kas,2005,9,33.552981,72.019444
+47,Attock,Basal ,Earthfill,Operational,65,31.685,1700,538,500,4.25,11500,1373.5,1394.39,1397.62,Haji Shah Nullagh/ Chel Kas,2004,15.5,33.565744,72.299281
+48,Attock,Haji Shah ,Earthfill,Operational,66,191.729,2200,1600,1520,13.75,25250,1022,1040,1043,Jammargal Kas,2015,32,33.880639,72.319056
+49,Attock,Sowrra,Earthfill,Operational,100,866.222,4224,2024,2300,21,31900,1042,1072,1079,Sankhi Kas,2020,16.75,33.261064,72.156275
+50,Jhelum,Garat  ,Concrete,Operational,66,14.31,2228,1763,638,6,16526,922.5,951,955.5,Garat Kas Tributary of Kahan River,1982,14.01,33.018819,73.516033
+51,Jhelum,Jammargal  ,Earthfill,Operational,53.48,22.98,2432,1650,925,6.5,15840,879.25,890.81,897,Jammargal Kas Tributary of Jhelum River ,1992,15,32.744642,73.530272
+52,Jhelum,Tain Pura I ,Concrete,Operational,92.5,108.15,5941,5775,3410,30,69326,959,1000,1007,Tainpura Kas Tributary of Kahan River,1994,35.5,33.057058,73.516033
+53,Jhelum,Tain Pura II,Concrete,Operational,85.75,108.15,3395,1211,3410,30,69326,989,1018,1021,Tainpura Kas Tributary of Kahan River,1994,9.2,33.06875,73.533125
+54,Jhelum,Lehri ,Earthfill,Operational,109,123.714,5705,4595,2220,30,37000,959,1000,1007,Basli Nullah Tributary of Kahan River,2005,3.9,33.109053,73.407692
+55,Jhelum,Salial ,Earthfill,Operational,68,43.4,527,417,372,4,8550,1118.75,1147,1153,Potha Tributary of Jhelum River ,2005,16.5,32.878211,73.516033
+56,Jhelum,Pindori ,Concrete,Operational,147,954.874,3795,2344,1700,10,17300,984,1013.5,1026.63,Potha Kas Tributary of Jhelum River ,2022,26.42,33.102617,73.604469
+57,Jhelum,Shah Habib,Earthfill,Non-Operational,77.14,40.58,1655,536,450,3,18000,902,918.4,920.43,Local Nullah Jammargal Kas Tributary of Jhelum River ,2008,3.5,32.577778,73.7875
+58,Jhelum,Fatehpur ,Earthfill,Non-Operational,86.5,42.911,1733,1534,315,3,22000,1537,1543,1547,Nabnawala Kas Tributary of Bunha River,2008,3.5,32.066389,73.501667
+59,Jhelum,Domeli ,Earthfill,Operational,120,320.537,8690,4636,3000,22,28000,1153,1175,1188,Nuli and Pamal Nullah Tributary of Kahan River,2007,170,33.022969,73.327214
+60,Jhelum,Gurah Uttam ,Earthfill,Operational,94,158.296,2679,1030,1500,12.25,30000,1373,1391,1400,Sore Kas Tributary of Kahan River,2008,35.5,32.969867,73.239006
