@@ -13,7 +13,7 @@ st.set_page_config(page_title="Small Dams (CSV Robust v3)", page_icon="🏞️",
 # -------------------------
 @st.cache_data(show_spinner=False)
 def load_data():
-    path = "All_Dams.csv"
+    path = "All_Damsnew.csv"
     encodings = ["utf-8", "utf-8-sig", "cp1252", "latin-1"]
     last_err = None
     for enc in encodings:
